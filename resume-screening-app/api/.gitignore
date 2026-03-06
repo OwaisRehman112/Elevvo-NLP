@@ -1,0 +1,8 @@
+# Python / Backend
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+data/*.pt
+data/*.csv
